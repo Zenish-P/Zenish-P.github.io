@@ -67,7 +67,9 @@ Now when you type "http://[username].github.io" in the web browser and you can s
 
 This is how you resume will look like. 
 
+
 ![resume.gif](/resume.gif)
+
 
 ## **_Additional Resources_**
 -----------------------
