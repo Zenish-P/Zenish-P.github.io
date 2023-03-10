@@ -29,7 +29,7 @@ Assuming you already have a github account.
 >7. After that click on `upload an existing file`.
 >8. Upload your resume.md and click `commit changes`.
 
-![Creating Repository - gif](/RepoCreationGIF.gif)
+![Creating Repository - gif](/RepoCreation.gif)
 ## _Host a static website_
 
 1. Ruby installation
