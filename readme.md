@@ -38,7 +38,8 @@ Assuming you already have a github account.
  * Click on the red coloured `Download Ruby` button.
  * Download the latest version of `Ruby Installer` which has a Devkit.
 
-![DownloadingRuby-gif](/RubyDown.gif)
+![DownloadingRuby-gif](/rubyDown.gif)
+
 2. Jekyll installation
  * Open Command Prompt
  * Enter command: `gem install bundlr jekyll`.
