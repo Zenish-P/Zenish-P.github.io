@@ -88,5 +88,7 @@ This is how you resume will look like.
 
 ---
 
-Q: Why Markdown is superior to word processing
+Q: Why Markdown is superior to word processing?
 > The best word processors are expensive. They are out of most people's price range as a result. As a result, people fail to participate. The majority of individuals can easily utilise Markdown because it is free source and straightforward to use. People are encouraged to participate as a result.
+Q: Can i see my website directly by typing the website name?
+> Yes. You can either type in your whole website name or you can click on view deployment from your github repo.
